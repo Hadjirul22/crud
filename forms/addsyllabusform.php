@@ -1,4 +1,4 @@
-<head><title>Add syllabus</title></head>
+<head><title>Add Syllabus</title></head>
 <body>
     <h1>Add syllabus</h1>
     <a href="../index.php">home</a>
